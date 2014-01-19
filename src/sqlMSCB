@@ -1,0 +1,1 @@
+create table PayrollMaster(EmployeeName Vharchar(50),Designatio Varchar(50),Societyname vharchar(50),contractorname varchar(50),EmployeeCPFno INTEGER,ContractorSupplyerCode INTEGER,SocityCode INTEGER,Bank varchar(50),accountno INTEGER,paymentmode varchar(50),Paymantamount varchar(50));
